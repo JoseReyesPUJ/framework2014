@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>DialogInformation1</class>
+ <widget class="QDialog" name="DialogInformation1">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>832</width>
+    <height>313</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QPushButton" name="pushButtonAceptar">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>250</y>
+     <width>211</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Continue</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButtonSalir">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>250</y>
+     <width>211</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Exit</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>0</y>
+     <width>641</width>
+     <height>241</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Lao UI</family>
+     <pointsize>14</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="layoutDirection">
+    <enum>Qt::LeftToRight</enum>
+   </property>
+   <property name="autoFillBackground">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string> Este es un framework que permita la creación y aplicación de pruebas
+ neuropsicológicas. Las pruebas neuropsicológicas son test de fácil 
+ aplicación y que requieren poco tiempo para su realización (5 a 20 min).
+ Consiste un conjunto de preguntas en relación a un cierto número
+ de áreas cognitivas como:
+ * Atención
+ * Memoria
+ * Lenguaje</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>650</x>
+     <y>40</y>
+     <width>171</width>
+     <height>181</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap resource="signowarning.qrc">:/imagenes/exclamacion.png</pixmap>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="signowarning.qrc"/>
+ </resources>
+ <connections>
+  <connection>
+   <sender>pushButtonAceptar</sender>
+   <signal>clicked()</signal>
+   <receiver>DialogInformation1</receiver>
+   <slot>continuarDI1()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>192</x>
+     <y>274</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>323</x>
+     <y>264</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButtonSalir</sender>
+   <signal>clicked()</signal>
+   <receiver>DialogInformation1</receiver>
+   <slot>salirDI1()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>610</x>
+     <y>269</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>643</x>
+     <y>265</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>continuarDI1()</slot>
+  <slot>salirDI1()</slot>
+ </slots>
+</ui>
