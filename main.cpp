@@ -1,5 +1,6 @@
 #include "dialoginformation1.h"
 #include <QApplication>
+#include "TimeC.h"
 
 int main(int argc, char *argv[])
 {
