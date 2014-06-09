@@ -1,0 +1,1106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>VentanaMatrizImages</class>
+ <widget class="QMainWindow" name="VentanaMatrizImages">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>156</width>
+    <height>172</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="pushButton_1">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>9</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_2">
+    <property name="geometry">
+     <rect>
+      <x>80</x>
+      <y>10</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_3">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>10</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_4">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>10</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_5">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>10</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_6">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>10</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_7">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>80</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_8">
+    <property name="geometry">
+     <rect>
+      <x>80</x>
+      <y>80</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_9">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>80</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_10">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>80</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_11">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>80</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_12">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>80</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_13">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>150</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_14">
+    <property name="geometry">
+     <rect>
+      <x>80</x>
+      <y>150</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_15">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>150</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_16">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>150</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_17">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>150</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_18">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>150</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_19">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>220</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_20">
+    <property name="geometry">
+     <rect>
+      <x>80</x>
+      <y>220</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_21">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>220</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_22">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>220</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_23">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>220</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_24">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>220</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_25">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>290</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_26">
+    <property name="geometry">
+     <rect>
+      <x>80</x>
+      <y>290</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_27">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>290</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_28">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>290</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_29">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>290</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_30">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>290</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_31">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>360</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_32">
+    <property name="geometry">
+     <rect>
+      <x>80</x>
+      <y>360</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_33">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>360</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_34">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>360</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_35">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>360</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_36">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>360</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>pushButton_1</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro1()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>58</x>
+     <y>26</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>467</x>
+     <y>25</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_2</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>118</x>
+     <y>36</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>452</x>
+     <y>32</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_3</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro3()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>188</x>
+     <y>37</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>491</x>
+     <y>41</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_4</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro4()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>260</x>
+     <y>49</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>474</x>
+     <y>55</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_5</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro5()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>330</x>
+     <y>47</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>458</x>
+     <y>65</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_6</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro6()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>383</x>
+     <y>50</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>444</x>
+     <y>70</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_7</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro7()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>43</x>
+     <y>93</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>460</x>
+     <y>98</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_8</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro8()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>123</x>
+     <y>103</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>493</x>
+     <y>106</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_9</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro9()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>188</x>
+     <y>112</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>480</x>
+     <y>114</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_10</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro10()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>261</x>
+     <y>121</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>452</x>
+     <y>124</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_11</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro11()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>340</x>
+     <y>130</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>495</x>
+     <y>133</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_12</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro12()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>412</x>
+     <y>122</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>467</x>
+     <y>140</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_13</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro13()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>57</x>
+     <y>161</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>443</x>
+     <y>152</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_14</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro14()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>116</x>
+     <y>159</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>458</x>
+     <y>165</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_15</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro15()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>169</x>
+     <y>166</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>473</x>
+     <y>174</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_16</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro16()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>256</x>
+     <y>176</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>490</x>
+     <y>184</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_17</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro17()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>332</x>
+     <y>176</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>436</x>
+     <y>191</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_18</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro18()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>384</x>
+     <y>196</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>454</x>
+     <y>200</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_19</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro19()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>15</x>
+     <y>227</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>494</x>
+     <y>224</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_20</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro20()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>95</x>
+     <y>229</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>439</x>
+     <y>230</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_21</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro21()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>179</x>
+     <y>236</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>459</x>
+     <y>240</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_22</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro22()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>254</x>
+     <y>246</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>478</x>
+     <y>253</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_23</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro23()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>305</x>
+     <y>256</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>441</x>
+     <y>259</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_24</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro24()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>405</x>
+     <y>264</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>461</x>
+     <y>268</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_25</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro25()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>18</x>
+     <y>297</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>498</x>
+     <y>292</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_26</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro26()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>94</x>
+     <y>299</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>485</x>
+     <y>303</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_27</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro27()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>186</x>
+     <y>307</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>471</x>
+     <y>313</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_28</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro28()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>259</x>
+     <y>322</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>436</x>
+     <y>323</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_29</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro29()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>323</x>
+     <y>334</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>455</x>
+     <y>335</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_30</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro30()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>405</x>
+     <y>347</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>486</x>
+     <y>346</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_31</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro31()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>25</x>
+     <y>368</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>441</x>
+     <y>357</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_32</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro32()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>90</x>
+     <y>363</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>456</x>
+     <y>366</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_33</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro33()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>199</x>
+     <y>373</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>472</x>
+     <y>375</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_34</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro34()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>242</x>
+     <y>377</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>486</x>
+     <y>387</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_35</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro35()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>330</x>
+     <y>393</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>441</x>
+     <y>400</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_36</sender>
+   <signal>clicked()</signal>
+   <receiver>VentanaMatrizImages</receiver>
+   <slot>presionarCuadro36()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>411</x>
+     <y>413</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>478</x>
+     <y>421</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>presionarCuadro1()</slot>
+  <slot>presionarCuadro2()</slot>
+  <slot>presionarCuadro3()</slot>
+  <slot>presionarCuadro4()</slot>
+  <slot>presionarCuadro5()</slot>
+  <slot>presionarCuadro6()</slot>
+  <slot>presionarCuadro7()</slot>
+  <slot>presionarCuadro8()</slot>
+  <slot>presionarCuadro9()</slot>
+  <slot>presionarCuadro10()</slot>
+  <slot>presionarCuadro11()</slot>
+  <slot>presionarCuadro12()</slot>
+  <slot>presionarCuadro13()</slot>
+  <slot>presionarCuadro14()</slot>
+  <slot>presionarCuadro15()</slot>
+  <slot>presionarCuadro16()</slot>
+  <slot>presionarCuadro17()</slot>
+  <slot>presionarCuadro18()</slot>
+  <slot>presionarCuadro19()</slot>
+  <slot>presionarCuadro20()</slot>
+  <slot>presionarCuadro22()</slot>
+  <slot>presionarCuadro23()</slot>
+  <slot>presionarCuadro24()</slot>
+  <slot>presionarCuadro25()</slot>
+  <slot>presionarCuadro26()</slot>
+  <slot>presionarCuadro27()</slot>
+  <slot>presionarCuadro28()</slot>
+  <slot>presionarCuadro29()</slot>
+  <slot>presionarCuadro30()</slot>
+  <slot>presionarCuadro31()</slot>
+  <slot>presionarCuadro32()</slot>
+  <slot>presionarCuadro33()</slot>
+  <slot>presionarCuadro34()</slot>
+  <slot>presionarCuadro35()</slot>
+  <slot>presionarCuadro36()</slot>
+  <slot>presionarCuadro21()</slot>
+  <slot>slot2()</slot>
+ </slots>
+</ui>
