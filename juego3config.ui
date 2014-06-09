@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>324</width>
-    <height>248</height>
+    <width>322</width>
+    <height>252</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -166,5 +166,42 @@ Number Game</string>
   </widget>
  </widget>
  <resources/>
- <connections/>
+ <connections>
+  <connection>
+   <sender>pushButton</sender>
+   <signal>clicked()</signal>
+   <receiver>juego3config</receiver>
+   <slot>atras()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>71</x>
+     <y>219</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>51</x>
+     <y>214</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_2</sender>
+   <signal>clicked()</signal>
+   <receiver>juego3config</receiver>
+   <slot>continuar()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>248</x>
+     <y>217</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>272</x>
+     <y>218</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>atras()</slot>
+  <slot>continuar()</slot>
+ </slots>
 </ui>
