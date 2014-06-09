@@ -1,6 +1,7 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 
+
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindow)
@@ -25,3 +26,19 @@ void MainWindow::click()
     proceso->exit();
 }
 
+void MainWindow::clicaconfigjuego1()
+{
+    juego1config *configame1;
+    configame1 = new juego1config();
+    configame1->show();
+    this->destroy(true);
+}
+
+void MainWindow::clickcreditos()
+{
+    Creditos *vercreditos;
+    vercreditos = new Creditos();
+    vercreditos->show();
+    //vercreditos->setModal();
+    this->destroy();
+}
