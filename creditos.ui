@@ -81,7 +81,9 @@ Objetos y programación a media escala.
 
  *Jose Rosemberg Reyes Muñoz
  *Andres Felipe Muñoz
- *Diego Fernando Lopez Lopez</string>
+ *Diego Fernando Lopez Lopez
+
+</string>
    </property>
   </widget>
   <widget class="QPushButton" name="pushButton">
