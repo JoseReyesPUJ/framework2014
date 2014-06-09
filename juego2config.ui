@@ -111,7 +111,7 @@ Juego de palabras</string>
   <widget class="QLineEdit" name="lineEdit_7">
    <property name="geometry">
     <rect>
-     <x>120</x>
+     <x>40</x>
      <y>150</y>
      <width>81</width>
      <height>20</height>
@@ -121,7 +121,7 @@ Juego de palabras</string>
   <widget class="QLineEdit" name="lineEdit_8">
    <property name="geometry">
     <rect>
-     <x>40</x>
+     <x>120</x>
      <y>150</y>
      <width>81</width>
      <height>20</height>
@@ -166,5 +166,42 @@ Juego de palabras</string>
   </widget>
  </widget>
  <resources/>
- <connections/>
+ <connections>
+  <connection>
+   <sender>pushButton_2</sender>
+   <signal>clicked()</signal>
+   <receiver>juego2config</receiver>
+   <slot>continuarVCjuego2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>216</x>
+     <y>208</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>266</x>
+     <y>203</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton</sender>
+   <signal>clicked()</signal>
+   <receiver>juego2config</receiver>
+   <slot>atrasVCjuego2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>100</x>
+     <y>203</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>72</x>
+     <y>182</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>continuarVCjuego2()</slot>
+  <slot>atrasVCjuego2()</slot>
+ </slots>
 </ui>
