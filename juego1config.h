@@ -3,7 +3,7 @@
 
 #include <QDialog>
 #include "dialoginformation1.h"
-#include "VentanaMatrizJimages.h"
+#include "matrizjimages.h"
 
 namespace Ui {
 class juego1config;
@@ -20,11 +20,14 @@ public:
 private slots:
     void atras();
     void continuarJ1();
+    void setJuegoMemoria(MatrizJimages*);
+
 
 
 
 private:
     Ui::juego1config *ui;
+    MatrizJimages *instancia;
 
 
 };
