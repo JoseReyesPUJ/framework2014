@@ -1,5 +1,7 @@
 #include "juego1config.h"
+#include "juego2config.h"
 #include "ui_juego1config.h"
+#include "matrizjimages.h"
 
 
 juego1config::juego1config(QWidget *parent) :
@@ -21,10 +23,21 @@ void juego1config::atras()
     this->destroy(true);
 }
 
-/*void juego1config::continuarJ1()
+void juego1config::continuarJ1()
 {
-    MatrizJimages *matrizj1;
-    matrizj1 = new MatrizJimages();
-    matrizj1->show();
-    this->destroy(true);
-}*/
+
+    juego2config *ventanaConfig2;
+
+    instancia = new MatrizJimages(ui->spinBox->value());
+    ventanaConfig2 = new juego2config();
+    ventanaConfig2->pasoClase(instancia);
+    ventanaConfig2->show();
+
+    this->destroy();
+
+}
+
+void juego1config::setJuegoMemoria(MatrizJimages *j_)
+{
+    instancia = j_;
+}
