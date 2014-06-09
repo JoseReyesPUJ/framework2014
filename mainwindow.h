@@ -4,6 +4,8 @@
 #include <QMainWindow>
 #include <iostream>
 #include <QApplication>
+#include "juego1config.h"
+#include "creditos.h"
 
 using namespace std;
 
@@ -22,8 +24,12 @@ public:
     void pasarProceso(QApplication *aplication_);
 
 
-private slots:
+public slots:
     void click();
+    void clicaconfigjuego1();
+    void clickcreditos();
+
+
 
 
 private:
